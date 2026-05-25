@@ -2,7 +2,7 @@ class GeminiAuthElectron < Formula
   desc "Cross-platform glassmorphic chat engine utilizing secure desktop OAuth configurations"
   homepage "https://github.com/Codemaster-AR/homebrew-gemini_auth-electron"
   url "https://github.com/codemaster-ar/homebrew-gemini_auth-electron/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "8f16c881a77c9c8f925bab3795bf82926e8b7eaf5caee9c964eb5bc6a6ecf649"
+  sha256 "ec726d7d7dac12100b4645f2a182b0f19f09599c347a29b445fa55b9a3132d0b"
   license "MIT"
 
   # Core installation layer for Linux & Windows WSL configurations
